@@ -1,6 +1,6 @@
 🔐 ESP32 Unauthorized Device Detector
 
-![ESP32 Unauthorized Device Detector](images/esp32-network-monitor.png)
+![ESP32 Unauthorized Device Detector](images/Esp32 Unauthorized Device Detector (5).jpeg")
 
 A lightweight LAN security monitoring system built using an ESP32.
 The system scans the local Wi-Fi network, detects active devices, retrieves their IP and MAC addresses, and compares detected MAC addresses against an authorized device list.

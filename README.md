@@ -184,9 +184,11 @@ ESP32-Unauthorized-Device-Detector/
 │
 ├── ESP32_Unauthorized_Device_Detector.ino
 ├── README.md
-└── images/
-    ├── circuit.png
-    └── demo.png
+├── images/
+│      └── demo.png
+├── demo
+       └── ESP32 Unauthorized Device Detector.mp4
+    
 
 ---
 

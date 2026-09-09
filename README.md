@@ -134,7 +134,7 @@ Authorized Device
 ----------------------------------------------
 Device No  : 1
 IP Address : 10.239.161.100
-MAC        : F4:A5:9D:14:53:96
+MAC        : xx:xx:xx:xx:xx:xx
 Status     : AUTHORIZED ✅
 Security   : SAFE
 ----------------------------------------------
